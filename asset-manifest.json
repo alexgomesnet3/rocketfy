@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/rocketfy/static/js/main.5655cb0b.chunk.js",
+    "main.js.map": "/rocketfy/static/js/main.5655cb0b.chunk.js.map",
+    "runtime~main.js": "/rocketfy/static/js/runtime~main.395c8bfa.js",
+    "runtime~main.js.map": "/rocketfy/static/js/runtime~main.395c8bfa.js.map",
+    "static/js/2.c75d8aa9.chunk.js": "/rocketfy/static/js/2.c75d8aa9.chunk.js",
+    "static/js/2.c75d8aa9.chunk.js.map": "/rocketfy/static/js/2.c75d8aa9.chunk.js.map",
+    "index.html": "/rocketfy/index.html",
+    "precache-manifest.ddaaa67e1b1922ef698f8acfb416f4a6.js": "/rocketfy/precache-manifest.ddaaa67e1b1922ef698f8acfb416f4a6.js",
+    "service-worker.js": "/rocketfy/service-worker.js"
+  }
+}
