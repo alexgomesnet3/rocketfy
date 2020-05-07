@@ -4,10 +4,15 @@ Youtube Channel RocketSeat, Teacher Diogo Fernandes.
 Link: https://youtu.be/awRtgpRsdTQ
 RocketSeat: https://rocketseat.com.br/ 
 
+<p align="center">
+  <img src="RocketFy.png" alt="Rocketfy - Rocketseat Project Challenge" width="1200">
+</p>
+
 ## Available Scripts
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.<br>
