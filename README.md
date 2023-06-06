@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Building clone interface Pipefy, using React js, library react-dnd, immer and React Context API.</br>
+Building clone interface Pipefy, using React js, library React-dnd, immer and React Context API.</br>
 All credits video tutorial
 Youtube Channel RocketSeat, Teacher Diogo Fernandes.
 Link: https://youtu.be/awRtgpRsdTQ
